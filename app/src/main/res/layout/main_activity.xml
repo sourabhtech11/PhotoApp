@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.valuelab.photoapp.ui.main.MainActivity">
+    tools:context="com.demo.photoapp.ui.main.MainActivity">
 
     <fragment
         android:id="@+id/navigation_host_fragment"

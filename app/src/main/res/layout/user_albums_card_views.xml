@@ -8,7 +8,7 @@
 
         <variable
             name="UserAlbums"
-            type="com.valuelab.photoapp.model.UserAlbums" />
+            type="com.demo.photoapp.model.UserAlbums" />
     </data>
 
     <!-- TODO set margin from dimen resource file-->

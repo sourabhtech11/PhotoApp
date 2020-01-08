@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.valuelab.photoapp.ui.main.DisplayUsersFragment">
+    tools:context="com.demo.photoapp.ui.main.DisplayUsersFragment">
 
     <!-- TODO set margin from dimen resource file-->
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout

@@ -9,7 +9,7 @@
 
         <variable
             name="UsersData"
-            type="com.valuelab.photoapp.model.UsersDetails" />
+            type="com.demo.photoapp.model.UsersDetails" />
     </data>
 
     <!-- TODO set margin from dimen resource file-->

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/displayUserFragment"
-        android:name="com.valuelab.photoapp.ui.main.DisplayUsersFragment"
+        android:name="com.demo.photoapp.ui.main.DisplayUsersFragment"
         android:label="display_user_fragment"
         tools:layout="@layout/display_users_fragment">
         <action
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/displayUserAlbumsFragment"
-        android:name="com.valuelab.photoapp.ui.main.DisplayUserAlbumsFragment"
+        android:name="com.demo.photoapp.ui.main.DisplayUserAlbumsFragment"
         android:label="display_user_albums_fragment"
         tools:layout="@layout/display_user_albums_fragment">
         <action
@@ -33,6 +33,6 @@
     </fragment>
     <fragment
         android:id="@+id/displayUserPhotosFragment"
-        android:name="com.valuelab.photoapp.ui.main.DisplayUserPhotosFragment"
+        android:name="com.demo.photoapp.ui.main.DisplayUserPhotosFragment"
         android:label="DisplayUserPhotosFragment" />
 </navigation>
