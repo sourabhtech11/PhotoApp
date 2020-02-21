@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity(), HasSupportFragmentInjector {
 
     override fun supportFragmentInjector() = dispatchingAndroidInjector
 
+    
     /**
      * Validates for internet connection and prepare the view model to consume the data on respective fragments.
      */
